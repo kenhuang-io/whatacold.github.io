@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDB on Ken Huang</title>
-    <link>https://whatacold.io/zh-cn/tags/gdb/</link>
+    <link>https://blog.kenhuang.io/zh-cn/tags/gdb/</link>
     <description>Recent content in GDB on Ken Huang</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <managingEditor>whatacold@gmail.com (Ken Huang)</managingEditor>
     <webMaster>whatacold@gmail.com (Ken Huang)</webMaster>
     <lastBuildDate>Wed, 26 Feb 2025 00:49:54 +0800</lastBuildDate>
-    <atom:link href="https://whatacold.io/zh-cn/tags/gdb/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kenhuang.io/zh-cn/tags/gdb/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43; 多态是如何实现的？</title>
-      <link>https://whatacold.io/zh-cn/blog/2018-12-10-how-polymorphism-works-in-cpp/</link>
+      <link>https://blog.kenhuang.io/zh-cn/blog/2018-12-10-how-polymorphism-works-in-cpp/</link>
       <pubDate>Mon, 10 Dec 2018 00:16:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/zh-cn/blog/2018-12-10-how-polymorphism-works-in-cpp/</guid>
+      <guid>https://blog.kenhuang.io/zh-cn/blog/2018-12-10-how-polymorphism-works-in-cpp/</guid>
       <description>&lt;p&gt;&#xA;对于 OOP 编程，相信大家对于多态（ polymorphism ）肯定都耳熟能详。&#xA;但是对于多态是如何实现的，我不知道大家是否清楚，但我发现自己并不是很了解，&#xA;只知道在运行时通过一个 vtable 来确定应该调用哪个函数，&#xA;实际上 vtable 真的存在吗？它是如何起作用的？&lt;/p&gt;</description>
     </item>
   </channel>

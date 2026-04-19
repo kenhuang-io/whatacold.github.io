@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrapy on Ken Huang</title>
-    <link>https://whatacold.io/tags/scrapy/</link>
+    <link>https://blog.kenhuang.io/tags/scrapy/</link>
     <description>Recent content in Scrapy on Ken Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>whatacold@gmail.com (Ken Huang)</managingEditor>
     <webMaster>whatacold@gmail.com (Ken Huang)</webMaster>
     <lastBuildDate>Wed, 26 Feb 2025 00:33:21 +0800</lastBuildDate>
-    <atom:link href="https://whatacold.io/tags/scrapy/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kenhuang.io/tags/scrapy/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to append items to the CSV file without header row?</title>
-      <link>https://whatacold.io/blog/2022-04-09-scrapy-csv-without-header/</link>
+      <link>https://blog.kenhuang.io/blog/2022-04-09-scrapy-csv-without-header/</link>
       <pubDate>Sat, 09 Apr 2022 22:32:11 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/blog/2022-04-09-scrapy-csv-without-header/</guid>
+      <guid>https://blog.kenhuang.io/blog/2022-04-09-scrapy-csv-without-header/</guid>
       <description>&lt;figure&gt;&#xA;&lt;img src=&#34;https://docs.scrapy.org/en/latest/_images/scrapy_architecture_02.jpg&#34; alt=&#34;Scrapy Architecture&#34; title=&#34;Click to enlarge the image&#34;/&gt;&#xA;&lt;figcaption&gt;&#xA;Scrapy Architecture&#xA;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;&#xA;Scrapy provides a few &lt;a href=&#34;https://docs.scrapy.org/en/latest/topics/exporters.html&#34;&gt;item exporters&lt;/a&gt; by default to export items in&#xA;commonly used file formats like CSV/JSON/XML. I usually use CSV to&#xA;export items, it is pretty convenient, and it comes in two ways:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;appending mode, for example, &lt;code&gt;scrapy crawl foo -o test.csv&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;overwriting mode with &lt;code class=&#34;verbatim&#34;&gt;-O&lt;/code&gt; option, like &lt;code&gt;scrapy crawl foo -O test.csv&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;But in the appending mode, it&amp;#39;s a bit annoying that it always appends&#xA;the header row before the newly scraped items, which is not correctly&#xA;in terms of CSV format.&lt;/p&gt;</description>
     </item>
   </channel>

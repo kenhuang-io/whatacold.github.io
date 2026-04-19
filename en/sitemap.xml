@@ -2,522 +2,522 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://whatacold.io/blog/</loc>
+    <loc>https://blog.kenhuang.io/blog/</loc>
     <lastmod>2026-03-10T23:16:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/blog/"
+                href="https://blog.kenhuang.io/zh-cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/blog/"
+                href="https://blog.kenhuang.io/blog/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/clojure/</loc>
+    <loc>https://blog.kenhuang.io/tags/clojure/</loc>
     <lastmod>2026-03-10T23:16:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/clojure/"
+                href="https://blog.kenhuang.io/zh-cn/tags/clojure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/clojure/"
+                href="https://blog.kenhuang.io/tags/clojure/"
                 />
   </url><url>
-    <loc>https://whatacold.io/</loc>
+    <loc>https://blog.kenhuang.io/</loc>
     <lastmod>2026-03-10T23:21:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/"
+                href="https://blog.kenhuang.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/"
+                href="https://blog.kenhuang.io/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/projects/</loc>
+    <loc>https://blog.kenhuang.io/tags/projects/</loc>
     <lastmod>2026-03-10T23:16:20+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/</loc>
+    <loc>https://blog.kenhuang.io/tags/</loc>
     <lastmod>2026-03-10T23:16:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/"
+                href="https://blog.kenhuang.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/"
+                href="https://blog.kenhuang.io/tags/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2026-03-10-backdrop-intro/</loc>
+    <loc>https://blog.kenhuang.io/blog/2026-03-10-backdrop-intro/</loc>
     <lastmod>2026-03-10T23:16:20+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/tweet/</loc>
+    <loc>https://blog.kenhuang.io/tags/tweet/</loc>
     <lastmod>2025-05-17T05:15:47+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2025-05-15-clojure-tip-hiccup-raw/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-05-15-clojure-tip-hiccup-raw/</loc>
     <lastmod>2025-05-17T05:15:35+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/cider/</loc>
+    <loc>https://blog.kenhuang.io/tags/cider/</loc>
     <lastmod>2025-05-17T05:15:47+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/emacs/</loc>
+    <loc>https://blog.kenhuang.io/tags/emacs/</loc>
     <lastmod>2025-10-17T20:28:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/emacs/"
+                href="https://blog.kenhuang.io/zh-cn/tags/emacs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/emacs/"
+                href="https://blog.kenhuang.io/tags/emacs/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2025-04-29-clojure-tip-cider-clojuredocs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-04-29-clojure-tip-cider-clojuredocs/</loc>
     <lastmod>2025-05-17T05:15:47+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-04-23-clojure-tip-thread-as/</loc>
     <lastmod>2025-05-17T05:13:41+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2025-04-18-clojure-group-by/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-04-18-clojure-group-by/</loc>
     <lastmod>2025-05-17T05:15:02+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/clojurescript/</loc>
+    <loc>https://blog.kenhuang.io/tags/clojurescript/</loc>
     <lastmod>2025-10-17T20:29:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/clojurescript/"
+                href="https://blog.kenhuang.io/zh-cn/tags/clojurescript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/clojurescript/"
+                href="https://blog.kenhuang.io/tags/clojurescript/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2025-04-11-google-analytics-clojurescript/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-04-11-google-analytics-clojurescript/</loc>
     <lastmod>2025-04-11T23:08:17+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/shadow-cljs/</loc>
+    <loc>https://blog.kenhuang.io/tags/shadow-cljs/</loc>
     <lastmod>2025-10-17T20:29:45+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2025-04-05-clojure-tip-discard-reader-symbol/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-04-05-clojure-tip-discard-reader-symbol/</loc>
     <lastmod>2025-05-17T04:54:41+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/flask/</loc>
+    <loc>https://blog.kenhuang.io/tags/flask/</loc>
     <lastmod>2025-10-17T20:29:45+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/reagent/</loc>
+    <loc>https://blog.kenhuang.io/tags/reagent/</loc>
     <lastmod>2025-10-17T20:29:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/reagent/"
+                href="https://blog.kenhuang.io/zh-cn/tags/reagent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/reagent/"
+                href="https://blog.kenhuang.io/tags/reagent/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2025-02-22-flask-clojure-rewrite/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-02-22-flask-clojure-rewrite/</loc>
     <lastmod>2025-10-17T20:29:45+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2025-01-05-construct-a-map-clojure/</loc>
+    <loc>https://blog.kenhuang.io/blog/2025-01-05-construct-a-map-clojure/</loc>
     <lastmod>2025-02-20T01:18:18+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-12-22-getting-started-with-cider/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-12-22-getting-started-with-cider/</loc>
     <lastmod>2024-12-22T17:55:03+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-12-07-babashka-fs-notes/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-12-07-babashka-fs-notes/</loc>
     <lastmod>2024-12-19T22:13:25+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/clay/</loc>
+    <loc>https://blog.kenhuang.io/tags/clay/</loc>
     <lastmod>2025-03-09T17:25:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/python/</loc>
+    <loc>https://blog.kenhuang.io/tags/python/</loc>
     <lastmod>2025-02-26T01:01:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/python/"
+                href="https://blog.kenhuang.io/zh-cn/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/python/"
+                href="https://blog.kenhuang.io/tags/python/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-27-clojure-unit-test/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-27-clojure-unit-test/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-28-beholder-clj-async-profiler/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-28-beholder-clj-async-profiler/</loc>
     <lastmod>2025-03-09T17:25:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/css/</loc>
+    <loc>https://blog.kenhuang.io/tags/css/</loc>
     <lastmod>2025-02-18T00:27:28+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/tailwindcss/</loc>
+    <loc>https://blog.kenhuang.io/tags/tailwindcss/</loc>
     <lastmod>2025-02-18T00:27:28+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-23-tailwindcss-docs-index/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-23-tailwindcss-docs-index/</loc>
     <lastmod>2025-02-18T00:27:28+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-09-clj-deps-cmdline/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-09-clj-deps-cmdline/</loc>
     <lastmod>2024-11-10T23:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-10-clojure-lazy-seq-case/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-10-clojure-lazy-seq-case/</loc>
     <lastmod>2024-11-10T23:57:25+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/clj/</loc>
+    <loc>https://blog.kenhuang.io/tags/clj/</loc>
     <lastmod>2024-11-10T23:55:07+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-08-clojure-thread-macro-anonymous-function/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-08-clojure-thread-macro-anonymous-function/</loc>
     <lastmod>2024-11-10T23:53:43+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2024-11-08-cider-clojure-repl-cmdline/</loc>
+    <loc>https://blog.kenhuang.io/blog/2024-11-08-cider-clojure-repl-cmdline/</loc>
     <lastmod>2025-02-18T00:31:14+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2023-11-25-emacs-join-every-n-lines/</loc>
+    <loc>https://blog.kenhuang.io/blog/2023-11-25-emacs-join-every-n-lines/</loc>
     <lastmod>2023-11-25T12:44:16+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/hydra/</loc>
+    <loc>https://blog.kenhuang.io/tags/hydra/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2023-11-19-emacs-winner-mode/</loc>
+    <loc>https://blog.kenhuang.io/blog/2023-11-19-emacs-winner-mode/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2023-08-14-org-emphasis-dragging-mouse/</loc>
+    <loc>https://blog.kenhuang.io/blog/2023-08-14-org-emphasis-dragging-mouse/</loc>
     <lastmod>2023-08-14T22:52:55+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/org-mode/</loc>
+    <loc>https://blog.kenhuang.io/tags/org-mode/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/org-mode/"
+                href="https://blog.kenhuang.io/zh-cn/tags/org-mode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/org-mode/"
+                href="https://blog.kenhuang.io/tags/org-mode/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2023-06-12-emacs-join-lines/</loc>
+    <loc>https://blog.kenhuang.io/blog/2023-06-12-emacs-join-lines/</loc>
     <lastmod>2023-11-25T12:22:31+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/hugo/</loc>
+    <loc>https://blog.kenhuang.io/tags/hugo/</loc>
     <lastmod>2025-10-17T19:54:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/hugo/"
+                href="https://blog.kenhuang.io/zh-cn/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/hugo/"
+                href="https://blog.kenhuang.io/tags/hugo/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2022-10-10-emacs-hugo-blogging/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-10-10-emacs-hugo-blogging/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/yasnippet/</loc>
+    <loc>https://blog.kenhuang.io/tags/yasnippet/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-09-10-emacs-beancount-account-files/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-09-10-emacs-beancount-account-files/</loc>
     <lastmod>2025-10-17T20:28:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/blog/2022-09-10-emacs-beancount-account-files/"
+                href="https://blog.kenhuang.io/zh-cn/blog/2022-09-10-emacs-beancount-account-files/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/blog/2022-09-10-emacs-beancount-account-files/"
+                href="https://blog.kenhuang.io/blog/2022-09-10-emacs-beancount-account-files/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/beancount/</loc>
+    <loc>https://blog.kenhuang.io/tags/beancount/</loc>
     <lastmod>2025-10-17T20:28:15+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/beancount/"
+                href="https://blog.kenhuang.io/zh-cn/tags/beancount/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/beancount/"
+                href="https://blog.kenhuang.io/tags/beancount/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2022-08-08-org-link-bookmarklet/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-08-08-org-link-bookmarklet/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/bookmarklet/</loc>
+    <loc>https://blog.kenhuang.io/tags/bookmarklet/</loc>
     <lastmod>2025-02-26T00:32:16+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/debugging/</loc>
+    <loc>https://blog.kenhuang.io/tags/debugging/</loc>
     <lastmod>2025-10-17T20:28:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/debugging/"
+                href="https://blog.kenhuang.io/zh-cn/tags/debugging/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/debugging/"
+                href="https://blog.kenhuang.io/tags/debugging/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2022-07-17-emacs-elisp-debug/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-07-17-emacs-elisp-debug/</loc>
     <lastmod>2025-10-17T20:28:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/blog/2022-07-17-emacs-elisp-debug/"
+                href="https://blog.kenhuang.io/zh-cn/blog/2022-07-17-emacs-elisp-debug/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/blog/2022-07-17-emacs-elisp-debug/"
+                href="https://blog.kenhuang.io/blog/2022-07-17-emacs-elisp-debug/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2022-05-23-emacs-duplicate-line/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-05-23-emacs-duplicate-line/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-05-21-adjust-screen-brightness-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-05-21-adjust-screen-brightness-emacs/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/linux/</loc>
+    <loc>https://blog.kenhuang.io/tags/linux/</loc>
     <lastmod>2025-10-17T20:29:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/linux/"
+                href="https://blog.kenhuang.io/zh-cn/tags/linux/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/linux/"
+                href="https://blog.kenhuang.io/tags/linux/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/tiling-wm/</loc>
+    <loc>https://blog.kenhuang.io/tags/tiling-wm/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-04-09-emacs-kill-other-buffer/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-04-09-emacs-kill-other-buffer/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-04-09-scrapy-csv-without-header/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-04-09-scrapy-csv-without-header/</loc>
     <lastmod>2025-02-26T00:33:21+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/scrapy/</loc>
+    <loc>https://blog.kenhuang.io/tags/scrapy/</loc>
     <lastmod>2025-02-26T00:33:21+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/about/</loc>
+    <loc>https://blog.kenhuang.io/about/</loc>
     <lastmod>2026-03-10T23:21:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/about/"
+                href="https://blog.kenhuang.io/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/about/"
+                href="https://blog.kenhuang.io/about/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/eglot/</loc>
+    <loc>https://blog.kenhuang.io/tags/eglot/</loc>
     <lastmod>2025-10-17T20:25:42+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-01-22-emacs-eglot-lsp/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-01-22-emacs-eglot-lsp/</loc>
     <lastmod>2025-10-17T20:25:42+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/youtube/</loc>
+    <loc>https://blog.kenhuang.io/tags/youtube/</loc>
     <lastmod>2025-10-17T20:25:42+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-01-14-i3wm-i3status-reload-config/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-01-14-i3wm-i3status-reload-config/</loc>
     <lastmod>2025-10-17T20:29:14+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/i3wm/</loc>
+    <loc>https://blog.kenhuang.io/tags/i3wm/</loc>
     <lastmod>2025-10-17T20:29:14+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/i3wm/"
+                href="https://blog.kenhuang.io/zh-cn/tags/i3wm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/i3wm/"
+                href="https://blog.kenhuang.io/tags/i3wm/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/english/</loc>
+    <loc>https://blog.kenhuang.io/tags/english/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2022-01-12-language-shadowing-with-subed-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2022-01-12-language-shadowing-with-subed-emacs/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-12-11-writing-python-in-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-12-11-writing-python-in-emacs/</loc>
     <lastmod>2021-12-11T09:25:01+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-12-05-beautifulsoup4-cheatsheet/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-12-05-beautifulsoup4-cheatsheet/</loc>
     <lastmod>2025-02-26T00:32:53+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/beautifulsoup/</loc>
+    <loc>https://blog.kenhuang.io/tags/beautifulsoup/</loc>
     <lastmod>2025-02-26T00:32:53+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/babashka/</loc>
+    <loc>https://blog.kenhuang.io/tags/babashka/</loc>
     <lastmod>2025-10-17T19:54:05+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-09-19-clojure-reduce-text-processing/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-09-19-clojure-reduce-text-processing/</loc>
     <lastmod>2021-09-19T10:39:28+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-08-07-illustrate-clojure-snippet/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-08-07-illustrate-clojure-snippet/</loc>
     <lastmod>2025-10-17T19:54:05+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-07-25-clojure-string-title-case/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-07-25-clojure-string-title-case/</loc>
     <lastmod>2021-07-25T11:51:39+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-07-22-clojure-string-manipulation/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-07-22-clojure-string-manipulation/</loc>
     <lastmod>2021-09-19T00:07:41+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/extensible-dotfiles/</loc>
+    <loc>https://blog.kenhuang.io/tags/extensible-dotfiles/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-07-17-emacs-i3wm-dunst/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-07-17-emacs-i3wm-dunst/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2021-07-11-babashka-random-password-generator/</loc>
+    <loc>https://blog.kenhuang.io/blog/2021-07-11-babashka-random-password-generator/</loc>
     <lastmod>2021-07-11T09:18:41+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2020-10-21-a-python-re.findall-service/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-10-21-a-python-re.findall-service/</loc>
     <lastmod>2025-02-26T00:11:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/blog/2021-07-12-python-re-chazhao/"
+                href="https://blog.kenhuang.io/zh-cn/blog/2021-07-12-python-re-chazhao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/blog/2020-10-21-a-python-re.findall-service/"
+                href="https://blog.kenhuang.io/blog/2020-10-21-a-python-re.findall-service/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/texttoolkit/</loc>
+    <loc>https://blog.kenhuang.io/tags/texttoolkit/</loc>
     <lastmod>2025-02-26T01:01:04+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/texttoolkit/"
+                href="https://blog.kenhuang.io/zh-cn/tags/texttoolkit/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/texttoolkit/"
+                href="https://blog.kenhuang.io/tags/texttoolkit/"
                 />
   </url><url>
-    <loc>https://whatacold.io/tags/tools/</loc>
+    <loc>https://blog.kenhuang.io/tags/tools/</loc>
     <lastmod>2025-02-26T01:01:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2020-08-22-generate-call-graphs-using-doxygen-in-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-08-22-generate-call-graphs-using-doxygen-in-emacs/</loc>
     <lastmod>2020-08-22T18:57:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2020-06-25-is-it-safe-to-use-redis-as-a-data-store/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-06-25-is-it-safe-to-use-redis-as-a-data-store/</loc>
     <lastmod>2020-06-25T22:37:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/mysql/</loc>
+    <loc>https://blog.kenhuang.io/tags/mysql/</loc>
     <lastmod>2020-06-25T22:37:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/redis/</loc>
+    <loc>https://blog.kenhuang.io/tags/redis/</loc>
     <lastmod>2020-06-25T22:37:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2020-05-30-a-trick-to-troubleshoot-emacs-subprocess-creating/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-05-30-a-trick-to-troubleshoot-emacs-subprocess-creating/</loc>
     <lastmod>2022-10-15T07:54:34+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/troubleshooting/</loc>
+    <loc>https://blog.kenhuang.io/tags/troubleshooting/</loc>
     <lastmod>2022-10-15T07:54:34+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2020-03-07-ppcompile-to-help-stay-coding-locally/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-03-07-ppcompile-to-help-stay-coding-locally/</loc>
     <lastmod>2020-03-07T23:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/git/</loc>
+    <loc>https://blog.kenhuang.io/tags/git/</loc>
     <lastmod>2025-10-17T20:27:26+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/tags/git/"
+                href="https://blog.kenhuang.io/zh-cn/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/tags/git/"
+                href="https://blog.kenhuang.io/tags/git/"
                 />
   </url><url>
-    <loc>https://whatacold.io/blog/2020-02-04-binary-search-algorithm-vs-problem-solving/</loc>
+    <loc>https://blog.kenhuang.io/blog/2020-02-04-binary-search-algorithm-vs-problem-solving/</loc>
     <lastmod>2020-02-04T18:48:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-12-22-manage-ssh-connections-with-ssh-config/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-12-22-manage-ssh-connections-with-ssh-config/</loc>
     <lastmod>2019-12-22T18:52:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-12-01-why-cant-git-fetch-remote-branches-other-than-master/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-12-01-why-cant-git-fetch-remote-branches-other-than-master/</loc>
     <lastmod>2025-10-17T20:27:26+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-11-25-start-a-new-urxvt-terminal-on-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-11-25-start-a-new-urxvt-terminal-on-emacs/</loc>
     <lastmod>2022-10-15T16:15:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/urxvt/</loc>
+    <loc>https://blog.kenhuang.io/tags/urxvt/</loc>
     <lastmod>2022-10-15T16:15:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-10-07-build-docker-images-for-qtile/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-10-07-build-docker-images-for-qtile/</loc>
     <lastmod>2019-10-07T13:25:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/docker/</loc>
+    <loc>https://blog.kenhuang.io/tags/docker/</loc>
     <lastmod>2019-10-07T13:25:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-09-29-how-to-run-the-bleeding-edge-code-of-qtile/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-09-29-how-to-run-the-bleeding-edge-code-of-qtile/</loc>
     <lastmod>2022-10-14T22:54:05+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-09-24-how-to-revert-a-series-of-commits-with-git/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-09-24-how-to-revert-a-series-of-commits-with-git/</loc>
     <lastmod>2021-10-03T21:42:26+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/tags/magit/</loc>
+    <loc>https://blog.kenhuang.io/tags/magit/</loc>
     <lastmod>2021-10-03T21:42:26+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-08-18-how-to-rename-web-page-titles-in-a-lightweight-way/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-08-18-how-to-rename-web-page-titles-in-a-lightweight-way/</loc>
     <lastmod>2025-02-26T00:32:16+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-07-20-generating-org-mode-outlines-for-wikihow-articles/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-07-20-generating-org-mode-outlines-for-wikihow-articles/</loc>
     <lastmod>2019-07-20T20:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-07-20-understanding-align-regexp-of-emacs/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-07-20-understanding-align-regexp-of-emacs/</loc>
     <lastmod>2019-07-20T13:50:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-07-06-render-erd-on-the-web/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-07-06-render-erd-on-the-web/</loc>
     <lastmod>2025-02-26T01:01:04+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/blog/2019-02-24-fine-tune-style-of-yasnippet-snippet-on-the-fly/</loc>
+    <loc>https://blog.kenhuang.io/blog/2019-02-24-fine-tune-style-of-yasnippet-snippet-on-the-fly/</loc>
     <lastmod>2019-03-10T16:48:00+08:00</lastmod>
   </url><url>
-    <loc>https://whatacold.io/categories/</loc>
+    <loc>https://blog.kenhuang.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://whatacold.io/zh-cn/categories/"
+                href="https://blog.kenhuang.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://whatacold.io/categories/"
+                href="https://blog.kenhuang.io/categories/"
                 />
   </url>
 </urlset>

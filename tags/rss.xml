@@ -2,292 +2,292 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ken Huang</title>
-    <link>https://whatacold.io/tags/</link>
+    <link>https://blog.kenhuang.io/tags/</link>
     <description>Recent content in Tags on Ken Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>whatacold@gmail.com (Ken Huang)</managingEditor>
     <webMaster>whatacold@gmail.com (Ken Huang)</webMaster>
     <lastBuildDate>Tue, 10 Mar 2026 23:16:20 +0800</lastBuildDate>
-    <atom:link href="https://whatacold.io/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kenhuang.io/tags/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clojure</title>
-      <link>https://whatacold.io/tags/clojure/</link>
+      <link>https://blog.kenhuang.io/tags/clojure/</link>
       <pubDate>Tue, 10 Mar 2026 22:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/clojure/</guid>
+      <guid>https://blog.kenhuang.io/tags/clojure/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://whatacold.io/tags/projects/</link>
+      <link>https://blog.kenhuang.io/tags/projects/</link>
       <pubDate>Tue, 10 Mar 2026 22:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/projects/</guid>
+      <guid>https://blog.kenhuang.io/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Tweet</title>
-      <link>https://whatacold.io/tags/tweet/</link>
+      <link>https://blog.kenhuang.io/tags/tweet/</link>
       <pubDate>Thu, 15 May 2025 12:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/tweet/</guid>
+      <guid>https://blog.kenhuang.io/tags/tweet/</guid>
       <description></description>
     </item>
     <item>
       <title>Cider</title>
-      <link>https://whatacold.io/tags/cider/</link>
+      <link>https://blog.kenhuang.io/tags/cider/</link>
       <pubDate>Tue, 29 Apr 2025 12:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/cider/</guid>
+      <guid>https://blog.kenhuang.io/tags/cider/</guid>
       <description></description>
     </item>
     <item>
       <title>Emacs</title>
-      <link>https://whatacold.io/tags/emacs/</link>
+      <link>https://blog.kenhuang.io/tags/emacs/</link>
       <pubDate>Tue, 29 Apr 2025 12:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/emacs/</guid>
+      <guid>https://blog.kenhuang.io/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
       <title>ClojureScript</title>
-      <link>https://whatacold.io/tags/clojurescript/</link>
+      <link>https://blog.kenhuang.io/tags/clojurescript/</link>
       <pubDate>Fri, 11 Apr 2025 22:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/clojurescript/</guid>
+      <guid>https://blog.kenhuang.io/tags/clojurescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Shadow-Cljs</title>
-      <link>https://whatacold.io/tags/shadow-cljs/</link>
+      <link>https://blog.kenhuang.io/tags/shadow-cljs/</link>
       <pubDate>Fri, 11 Apr 2025 22:49:27 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/shadow-cljs/</guid>
+      <guid>https://blog.kenhuang.io/tags/shadow-cljs/</guid>
       <description></description>
     </item>
     <item>
       <title>Flask</title>
-      <link>https://whatacold.io/tags/flask/</link>
+      <link>https://blog.kenhuang.io/tags/flask/</link>
       <pubDate>Sat, 22 Feb 2025 22:46:05 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/flask/</guid>
+      <guid>https://blog.kenhuang.io/tags/flask/</guid>
       <description></description>
     </item>
     <item>
       <title>Reagent</title>
-      <link>https://whatacold.io/tags/reagent/</link>
+      <link>https://blog.kenhuang.io/tags/reagent/</link>
       <pubDate>Sat, 22 Feb 2025 22:46:05 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/reagent/</guid>
+      <guid>https://blog.kenhuang.io/tags/reagent/</guid>
       <description></description>
     </item>
     <item>
       <title>Clay</title>
-      <link>https://whatacold.io/tags/clay/</link>
+      <link>https://blog.kenhuang.io/tags/clay/</link>
       <pubDate>Sat, 07 Dec 2024 22:24:41 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/clay/</guid>
+      <guid>https://blog.kenhuang.io/tags/clay/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://whatacold.io/tags/python/</link>
+      <link>https://blog.kenhuang.io/tags/python/</link>
       <pubDate>Sat, 07 Dec 2024 22:24:41 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/python/</guid>
+      <guid>https://blog.kenhuang.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>https://whatacold.io/tags/css/</link>
+      <link>https://blog.kenhuang.io/tags/css/</link>
       <pubDate>Sat, 23 Nov 2024 19:50:56 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/css/</guid>
+      <guid>https://blog.kenhuang.io/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>TailwindCSS</title>
-      <link>https://whatacold.io/tags/tailwindcss/</link>
+      <link>https://blog.kenhuang.io/tags/tailwindcss/</link>
       <pubDate>Sat, 23 Nov 2024 19:50:56 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/tailwindcss/</guid>
+      <guid>https://blog.kenhuang.io/tags/tailwindcss/</guid>
       <description></description>
     </item>
     <item>
       <title>Clj</title>
-      <link>https://whatacold.io/tags/clj/</link>
+      <link>https://blog.kenhuang.io/tags/clj/</link>
       <pubDate>Sat, 09 Nov 2024 21:02:56 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/clj/</guid>
+      <guid>https://blog.kenhuang.io/tags/clj/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydra</title>
-      <link>https://whatacold.io/tags/hydra/</link>
+      <link>https://blog.kenhuang.io/tags/hydra/</link>
       <pubDate>Sun, 19 Nov 2023 13:02:42 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/hydra/</guid>
+      <guid>https://blog.kenhuang.io/tags/hydra/</guid>
       <description></description>
     </item>
     <item>
       <title>Org-Mode</title>
-      <link>https://whatacold.io/tags/org-mode/</link>
+      <link>https://blog.kenhuang.io/tags/org-mode/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:20 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/org-mode/</guid>
+      <guid>https://blog.kenhuang.io/tags/org-mode/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://whatacold.io/tags/hugo/</link>
+      <link>https://blog.kenhuang.io/tags/hugo/</link>
       <pubDate>Mon, 10 Oct 2022 22:50:48 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/hugo/</guid>
+      <guid>https://blog.kenhuang.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Yasnippet</title>
-      <link>https://whatacold.io/tags/yasnippet/</link>
+      <link>https://blog.kenhuang.io/tags/yasnippet/</link>
       <pubDate>Mon, 10 Oct 2022 22:50:48 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/yasnippet/</guid>
+      <guid>https://blog.kenhuang.io/tags/yasnippet/</guid>
       <description></description>
     </item>
     <item>
       <title>Beancount</title>
-      <link>https://whatacold.io/tags/beancount/</link>
+      <link>https://blog.kenhuang.io/tags/beancount/</link>
       <pubDate>Sat, 10 Sep 2022 11:13:38 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/beancount/</guid>
+      <guid>https://blog.kenhuang.io/tags/beancount/</guid>
       <description></description>
     </item>
     <item>
       <title>Bookmarklet</title>
-      <link>https://whatacold.io/tags/bookmarklet/</link>
+      <link>https://blog.kenhuang.io/tags/bookmarklet/</link>
       <pubDate>Mon, 08 Aug 2022 23:33:05 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/bookmarklet/</guid>
+      <guid>https://blog.kenhuang.io/tags/bookmarklet/</guid>
       <description></description>
     </item>
     <item>
       <title>Debugging</title>
-      <link>https://whatacold.io/tags/debugging/</link>
+      <link>https://blog.kenhuang.io/tags/debugging/</link>
       <pubDate>Sun, 17 Jul 2022 09:57:31 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/debugging/</guid>
+      <guid>https://blog.kenhuang.io/tags/debugging/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://whatacold.io/tags/linux/</link>
+      <link>https://blog.kenhuang.io/tags/linux/</link>
       <pubDate>Sat, 21 May 2022 11:50:25 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/linux/</guid>
+      <guid>https://blog.kenhuang.io/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiling-Wm</title>
-      <link>https://whatacold.io/tags/tiling-wm/</link>
+      <link>https://blog.kenhuang.io/tags/tiling-wm/</link>
       <pubDate>Sat, 21 May 2022 11:50:25 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/tiling-wm/</guid>
+      <guid>https://blog.kenhuang.io/tags/tiling-wm/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrapy</title>
-      <link>https://whatacold.io/tags/scrapy/</link>
+      <link>https://blog.kenhuang.io/tags/scrapy/</link>
       <pubDate>Sat, 09 Apr 2022 22:32:11 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/scrapy/</guid>
+      <guid>https://blog.kenhuang.io/tags/scrapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Eglot</title>
-      <link>https://whatacold.io/tags/eglot/</link>
+      <link>https://blog.kenhuang.io/tags/eglot/</link>
       <pubDate>Sat, 22 Jan 2022 11:36:18 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/eglot/</guid>
+      <guid>https://blog.kenhuang.io/tags/eglot/</guid>
       <description></description>
     </item>
     <item>
       <title>YouTube</title>
-      <link>https://whatacold.io/tags/youtube/</link>
+      <link>https://blog.kenhuang.io/tags/youtube/</link>
       <pubDate>Sat, 22 Jan 2022 11:36:18 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/youtube/</guid>
+      <guid>https://blog.kenhuang.io/tags/youtube/</guid>
       <description></description>
     </item>
     <item>
       <title>I3wm</title>
-      <link>https://whatacold.io/tags/i3wm/</link>
+      <link>https://blog.kenhuang.io/tags/i3wm/</link>
       <pubDate>Fri, 14 Jan 2022 22:36:13 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/i3wm/</guid>
+      <guid>https://blog.kenhuang.io/tags/i3wm/</guid>
       <description></description>
     </item>
     <item>
       <title>English</title>
-      <link>https://whatacold.io/tags/english/</link>
+      <link>https://blog.kenhuang.io/tags/english/</link>
       <pubDate>Wed, 12 Jan 2022 21:41:54 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/english/</guid>
+      <guid>https://blog.kenhuang.io/tags/english/</guid>
       <description></description>
     </item>
     <item>
       <title>BeautifulSoup</title>
-      <link>https://whatacold.io/tags/beautifulsoup/</link>
+      <link>https://blog.kenhuang.io/tags/beautifulsoup/</link>
       <pubDate>Sat, 25 Sep 2021 23:01:40 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/beautifulsoup/</guid>
+      <guid>https://blog.kenhuang.io/tags/beautifulsoup/</guid>
       <description></description>
     </item>
     <item>
       <title>Babashka</title>
-      <link>https://whatacold.io/tags/babashka/</link>
+      <link>https://blog.kenhuang.io/tags/babashka/</link>
       <pubDate>Sun, 19 Sep 2021 10:39:23 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/babashka/</guid>
+      <guid>https://blog.kenhuang.io/tags/babashka/</guid>
       <description></description>
     </item>
     <item>
       <title>Extensible-Dotfiles</title>
-      <link>https://whatacold.io/tags/extensible-dotfiles/</link>
+      <link>https://blog.kenhuang.io/tags/extensible-dotfiles/</link>
       <pubDate>Sat, 17 Jul 2021 12:22:10 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/extensible-dotfiles/</guid>
+      <guid>https://blog.kenhuang.io/tags/extensible-dotfiles/</guid>
       <description></description>
     </item>
     <item>
       <title>Texttoolkit</title>
-      <link>https://whatacold.io/tags/texttoolkit/</link>
+      <link>https://blog.kenhuang.io/tags/texttoolkit/</link>
       <pubDate>Wed, 21 Oct 2020 22:51:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/texttoolkit/</guid>
+      <guid>https://blog.kenhuang.io/tags/texttoolkit/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://whatacold.io/tags/tools/</link>
+      <link>https://blog.kenhuang.io/tags/tools/</link>
       <pubDate>Wed, 21 Oct 2020 22:51:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/tools/</guid>
+      <guid>https://blog.kenhuang.io/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>https://whatacold.io/tags/mysql/</link>
+      <link>https://blog.kenhuang.io/tags/mysql/</link>
       <pubDate>Thu, 25 Jun 2020 22:37:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/mysql/</guid>
+      <guid>https://blog.kenhuang.io/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>https://whatacold.io/tags/redis/</link>
+      <link>https://blog.kenhuang.io/tags/redis/</link>
       <pubDate>Thu, 25 Jun 2020 22:37:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/redis/</guid>
+      <guid>https://blog.kenhuang.io/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Troubleshooting</title>
-      <link>https://whatacold.io/tags/troubleshooting/</link>
+      <link>https://blog.kenhuang.io/tags/troubleshooting/</link>
       <pubDate>Sat, 30 May 2020 11:52:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/troubleshooting/</guid>
+      <guid>https://blog.kenhuang.io/tags/troubleshooting/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>https://whatacold.io/tags/git/</link>
+      <link>https://blog.kenhuang.io/tags/git/</link>
       <pubDate>Tue, 04 Feb 2020 18:48:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/git/</guid>
+      <guid>https://blog.kenhuang.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Urxvt</title>
-      <link>https://whatacold.io/tags/urxvt/</link>
+      <link>https://blog.kenhuang.io/tags/urxvt/</link>
       <pubDate>Mon, 25 Nov 2019 22:47:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/urxvt/</guid>
+      <guid>https://blog.kenhuang.io/tags/urxvt/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://whatacold.io/tags/docker/</link>
+      <link>https://blog.kenhuang.io/tags/docker/</link>
       <pubDate>Mon, 07 Oct 2019 13:25:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/docker/</guid>
+      <guid>https://blog.kenhuang.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Magit</title>
-      <link>https://whatacold.io/tags/magit/</link>
+      <link>https://blog.kenhuang.io/tags/magit/</link>
       <pubDate>Tue, 24 Sep 2019 23:14:00 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/tags/magit/</guid>
+      <guid>https://blog.kenhuang.io/tags/magit/</guid>
       <description></description>
     </item>
   </channel>

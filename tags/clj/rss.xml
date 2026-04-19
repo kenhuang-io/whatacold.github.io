@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clj on Ken Huang</title>
-    <link>https://whatacold.io/tags/clj/</link>
+    <link>https://blog.kenhuang.io/tags/clj/</link>
     <description>Recent content in Clj on Ken Huang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>whatacold@gmail.com (Ken Huang)</managingEditor>
     <webMaster>whatacold@gmail.com (Ken Huang)</webMaster>
     <lastBuildDate>Sun, 10 Nov 2024 23:55:07 +0800</lastBuildDate>
-    <atom:link href="https://whatacold.io/tags/clj/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kenhuang.io/tags/clj/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adding Clojure Dependencies from the Command Line</title>
-      <link>https://whatacold.io/blog/2024-11-09-clj-deps-cmdline/</link>
+      <link>https://blog.kenhuang.io/blog/2024-11-09-clj-deps-cmdline/</link>
       <pubDate>Sat, 09 Nov 2024 21:02:56 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/blog/2024-11-09-clj-deps-cmdline/</guid>
+      <guid>https://blog.kenhuang.io/blog/2024-11-09-clj-deps-cmdline/</guid>
       <description>&lt;p&gt;&#xA;While debugging a &lt;a href=&#34;https://github.com/scicloj/clay/issues/176&#34;&gt;live reload issue&lt;/a&gt; of Clay a few days ago, I learned from &lt;a href=&#34;https://github.com/kloimhardt&#34;&gt;Markus Agwin&lt;/a&gt; that we can actually add dependencies on the fly from the command line, just like this: &lt;code class=&#34;verbatim&#34;&gt;clj -Sdeps &amp;#34;{:deps {org.scicloj/clay {:mvn/version \&amp;#34;2-beta21\&amp;#34;}}}&amp;#34;&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;Even better, we can add dependency from a Git repo and specify the commit hash: &lt;code class=&#34;verbatim&#34;&gt;clj -Sdeps &amp;#34;{:deps {io.github.scicloj/clay {:git/url \&amp;#34;https://github.com/scicloj/clay.git\&amp;#34; :git/sha \&amp;#34;35a46541db66ae6b4e1af628b7c24c42d3be418f\&amp;#34;}}}&amp;#34;&lt;/code&gt;, which is really helpful for experimenting and verifying things.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;Some clj links (&lt;code class=&#34;verbatim&#34;&gt;clj --help&lt;/code&gt; has a pointer for these URLs):&lt;/p&gt;</description>
     </item>
   </channel>

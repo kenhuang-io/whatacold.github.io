@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I3wm on Ken Huang</title>
-    <link>https://whatacold.io/zh-cn/tags/i3wm/</link>
+    <link>https://blog.kenhuang.io/zh-cn/tags/i3wm/</link>
     <description>Recent content in I3wm on Ken Huang</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <managingEditor>whatacold@gmail.com (Ken Huang)</managingEditor>
     <webMaster>whatacold@gmail.com (Ken Huang)</webMaster>
     <lastBuildDate>Sat, 22 Oct 2022 09:29:41 +0800</lastBuildDate>
-    <atom:link href="https://whatacold.io/zh-cn/tags/i3wm/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.kenhuang.io/zh-cn/tags/i3wm/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>i3wm 工作区如何快速创建 Emacs 窗口</title>
-      <link>https://whatacold.io/zh-cn/blog/2021-08-29-i3wm-workspace-emacs-frame/</link>
+      <link>https://blog.kenhuang.io/zh-cn/blog/2021-08-29-i3wm-workspace-emacs-frame/</link>
       <pubDate>Sun, 29 Aug 2021 13:58:21 +0800</pubDate><author>whatacold@gmail.com (Ken Huang)</author>
-      <guid>https://whatacold.io/zh-cn/blog/2021-08-29-i3wm-workspace-emacs-frame/</guid>
+      <guid>https://blog.kenhuang.io/zh-cn/blog/2021-08-29-i3wm-workspace-emacs-frame/</guid>
       <description>&lt;p&gt;&#xA;平铺窗口管理器为了提升显示空间的利用率，一般都有工作区（ workspace ）的功能，比如 &lt;a href=&#34;https://i3wm.org/docs/userguide.html&#34;&gt;i3wm&lt;/a&gt; 和 &lt;a href=&#34;http://www.qtile.org/&#34;&gt;qtile&lt;/a&gt; 默认定义了10个工作区。工作区可以隔离不同的应用，让我们专注当前的工作区，避免无关应用的干扰。&lt;/p&gt;</description>
     </item>
   </channel>
