@@ -26,72 +26,99 @@ Lambda vs. thread-as
 ">
   <meta name="author" content="Ken Huang"/><script type="application/ld+json">
 {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "Ken Huang",
-    
-    "url": "https:\/\/whatacold.io\/"
-}
-</script><script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Organization",
+  "@context": "https://schema.org",
+  "@type": "WebSite",
   "name": "Ken Huang",
-  "url": "https:\/\/whatacold.io\/"
-  
-  
-  
-  
+  "url": "https://whatacold.io/",
+  "@id": "https://whatacold.io/#website"
 }
 </script>
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https:\/\/whatacold.io\/",
-          "name": "home"
-        }
-    },{
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@id": "https:\/\/whatacold.io\/blog\/2025-04-23-clojure-tip-thread-as\/",
-          "name": "Clojure pro tip 3 the thread as macro"
-        }
-    }]
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Ken Huang",
+  "@id": "https://whatacold.io/#organization",
+  "url": "https://whatacold.io/"
 }
-</script><script type="application/ld+json">
+</script>
+<script type="application/ld+json">
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "🥷 Clojure Pro Tip 3: the Thread-As Macro",
+  "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/",
+  "url": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/",
+  "breadcrumb": {
+    "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/#breadcrumb"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/#breadcrumb",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "item": "https://whatacold.io/",
+      "name": "Home",
+      "position": 1
+    },
+    {
+      "@type": "ListItem",
+      "item": "https://whatacold.io/blog/",
+      "name": "Blogs",
+      "position": 2
+    },
+    {
+      "@type": "ListItem",
+      "item": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/",
+      "name": "🥷 Clojure Pro Tip 3: the Thread-As Macro",
+      "position": 3
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "Article",
+  "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/#article",
+  "isPartOf": {
+    "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/"
+  },
   "author": {
-    "name" : "Ken Huang"
+    "name": "Ken Huang",
+    "url": "https://whatacold.io/",
+    "@id": "https://whatacold.io/#author"
   },
   "headline": "🥷 Clojure Pro Tip 3: the Thread-As Macro",
-  "description" : " So you\u0026#39;re more than excited to find out how Clojure\u0026#39;s thread macros can make code clean and concise, you just love it! But at some point you\u0026#39;ll be trapped a bit as the threaded argument\u0026#39;s positions are inconsistent using -\u0026gt; or -\u0026gt;\u0026gt;.\nLuckily, you can use as-\u0026gt; to place the argument wherever you like:\nLambda vs. thread-as ",
-  "inLanguage" : "en",
+  "description": " So you\u0026#39;re more than excited to find out how Clojure\u0026#39;s thread macros can make code clean and concise, you just love it! But at some point you\u0026#39;ll be trapped a bit as the threaded argument\u0026#39;s positions are inconsistent using -\u0026gt; or -\u0026gt;\u0026gt;.\nLuckily, you can use as-\u0026gt; to place the argument wherever you like:\nLambda vs. thread-as ",
+  "inLanguage": "en",
   "wordCount":  57 ,
-  "datePublished" : "2025-04-23T12:49:27\u002b08:00",
-  "dateModified" : "2025-05-17T05:13:41\u002b08:00",
-  "image" : "https:\/\/whatacold.io\/img\/2021-12-10-motor-helmet-400.jpg",
-  "keywords" : [ "Clojure, tweet" ],
-  "mainEntityOfPage" : "https:\/\/whatacold.io\/blog\/2025-04-23-clojure-tip-thread-as\/",
-  "publisher" : {
+  "dateCreated": "2025-04-23T12:49:27+08:00",
+  "datePublished": "2025-04-23T12:49:27+08:00",
+  "dateModified": "2025-05-17T05:13:41+08:00",
+  "image": "https://whatacold.io/img/2021-12-10-motor-helmet-400.jpg",
+  "keywords": [ "Clojure, tweet" ],
+  "mainEntityOfPage": {
+    "@id": "https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/"
+  },
+  "publisher": {
     "@type": "Organization",
-    "name" : "https:\/\/whatacold.io\/",
-    "logo" : {
-        "@type" : "ImageObject",
-        "url" : "https:\/\/whatacold.io\/img\/2021-12-10-motor-helmet-400.jpg",
-        "height" :  60 ,
-        "width" :  60
+    "name": "https://whatacold.io/",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://whatacold.io/img/2021-12-10-motor-helmet-400.jpg",
+        "height": 60 ,
+        "width": 60
     }
   }
 }
 </script>
+
 
 
 <meta property="og:title" content="🥷 Clojure Pro Tip 3: the Thread-As Macro" />
@@ -104,7 +131,7 @@ Luckily, you can use as-&gt; to place the argument wherever you like:
 
 Lambda vs. thread-as
 
-">
+" />
 <meta property="og:image" content="https://whatacold.io/img/clojure-thread-as.jpg" />
 <meta property="og:url" content="https://whatacold.io/blog/2025-04-23-clojure-tip-thread-as/" />
 <meta property="og:type" content="website" />
@@ -115,12 +142,20 @@ Lambda vs. thread-as
 So you&#39;re more than excited to find out how Clojure&#39;s thread macros can make code clean and concise, you just love it! But at some point you&#39;ll be trapped a bit as the threaded …">
   <meta name="twitter:image" content="https://whatacold.io/img/clojure-thread-as.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@whatacold" />
-  <meta name="twitter:creator" content="@whatacold" />
+  <meta name="twitter:site" content="@kenhuang_io" />
+  <meta name="twitter:creator" content="@kenhuang_io" />
   <link href='https://whatacold.io/img/2021-12-10-motor-helmet-180.jpg' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.142.0">
-  <link rel="alternate" href="https://whatacold.io/rss.xml" type="application/rss+xml" title="Ken Huang"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css" integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css" integrity="sha384-h/hnnw1Bi4nbpD6kE7nYfCXzovi622sY5WBxww8ARKwpdLj5kUWjRuyiXaD1U2JT" crossorigin="anonymous">
+  <meta name="generator" content="Hugo 0.152.2">
+  <link rel="alternate" href="https://whatacold.io/rss.xml" type="application/rss+xml" title="Ken Huang"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/brands.css" integrity="sha384-+eXGm6TmVoCZR1gX03US+L++L2mJIfOvp2X0+luTuEktXaF5F+e3zn0sO0HBvOyT" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/fontawesome.css" integrity="sha384-B5nyPZa7e84uCJEYHtevCdVYtQosWsbDSRtq3cy/jeSVtQW05GL8CKXO7waXsjPK" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/regular.css" integrity="sha384-V71z/A/p/DGaZAryHhiSXRQj8HdQmK2nBgL2bX23MGD+h6ZKpyxOO76f5eSXmIaj" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/solid.css" integrity="sha384-1IIShlrK5iYgvS7OAgIH3prz4RAFP7hHZ2MaLIb9l3+trFwwnw/NdCWcUHlymZDU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/svg.css" integrity="sha384-iBa7uugTOHXqQ2ngvDYJyKrPPQbd9n2P3EQe+o/0+HZe5TNvV+LO5X0lLLUrXLHP" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/svg-with-js.css" integrity="sha384-STWnS5AGz6M2YxsnGAd536EqcE2y+ktGovMMuhtXLsCBtl7lujeQj2eN4eDxa57x" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v4-font-face.css" integrity="sha384-fH83IkgQi7kturzlxpXfNdsR8aUOcqj5HUORRVnSvJgObZkIw6aqKAaQx20IWyB/" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v4-shims.css" integrity="sha384-cCODJHSivNBsaHei/8LC0HUD58kToSbDU+xT7Rs51BO1v/IvgT/uM0W6xMoUqKfn" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/v5-font-face.css" integrity="sha384-atSdF89mIn15dv+o2LKkDM6mCh3hwh6A7mwZ6F2it/kenqZbMu+QW/ye1OG4XSWV" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"><link rel="stylesheet" href="https://whatacold.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   <link rel="stylesheet" href="https://whatacold.io/css/highlight.min.css" /><link rel="stylesheet" href="https://whatacold.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
@@ -339,7 +374,7 @@ Lambda vs. thread-as
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=https%3a%2f%2fwhatacold.io%2fblog%2f2025-04-23-clojure-tip-thread-as%2f&amp;text=%f0%9f%a5%b7%20Clojure%20Pro%20Tip%203%3a%20the%20Thread-As%20Macro&amp;via=whatacold" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=https%3a%2f%2fwhatacold.io%2fblog%2f2025-04-23-clojure-tip-thread-as%2f&amp;text=%f0%9f%a5%b7%20Clojure%20Pro%20Tip%203%3a%20the%20Thread-As%20Macro&amp;via=kenhuang_io" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -376,6 +411,13 @@ Lambda vs. thread-as
       <li>
         <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fwhatacold.io%2fblog%2f2025-04-23-clojure-tip-thread-as%2f&amp;description=%f0%9f%a5%b7%20Clojure%20Pro%20Tip%203%3a%20the%20Thread-As%20Macro" target="_blank" title="Share on Pinterest">
           <i class="fab fa-pinterest"></i>
+        </a>
+      </li>
+
+      
+      <li>
+        <a href="mailto:?body=https%3a%2f%2fwhatacold.io%2fblog%2f2025-04-23-clojure-tip-thread-as%2f&amp;subject=%f0%9f%a5%b7%20Clojure%20Pro%20Tip%203%3a%20the%20Thread-As%20Macro" title="Share via email">
+          <i class="fab fa-at"></i>
         </a>
       </li>
     </ul>
@@ -435,7 +477,10 @@ Lambda vs. thread-as
       
           
           <div class="disqus-comments">
-            <div id="disqus_thread"></div>
+            
+  
+    <div class="comments">
+      <div id="disqus_thread"></div>
 <script>
     window.disqus_config = function () {
     
@@ -455,6 +500,10 @@ Lambda vs. thread-as
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+  
+
+
           </div>
           
         
@@ -484,7 +533,7 @@ Lambda vs. thread-as
               </li>
               <li>
 		
-		  <a href="https://github.com/whatacold" title="GitHub">
+		  <a href="https://github.com/kenhuang-io" title="GitHub">
 		
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -494,7 +543,7 @@ Lambda vs. thread-as
               </li>
               <li>
 		
-		  <a href="https://twitter.com/whatacold" title="Twitter">
+		  <a href="https://twitter.com/kenhuang_io" title="Twitter">
 		
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -504,7 +553,7 @@ Lambda vs. thread-as
               </li>
               <li>
 		
-		  <a href="https://linkedin.com/in/kenhuang-tech" title="LinkedIn">
+		  <a href="https://linkedin.com/in/kenhuang-io" title="LinkedIn">
 		
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -514,7 +563,7 @@ Lambda vs. thread-as
               </li>
               <li>
 		
-		  <a href="https://www.youtube.com/@kenhuang-tech" title="Youtube">
+		  <a href="https://www.youtube.com/@kenhuang-io" title="Youtube">
 		
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -524,7 +573,7 @@ Lambda vs. thread-as
               </li>
               <li>
 		
-		  <a href="https://bsky.app/profile/whatacold.bsky.social" title="Bluesky">
+		  <a href="https://bsky.app/profile/kenhuang-io.bsky.social" title="Bluesky">
 		
                   <span class="fa-stack fa-lg">
                     <i class="fas fa-circle fa-stack-2x"></i>
@@ -555,14 +604,14 @@ Lambda vs. thread-as
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="https://gohugo.io">Hugo v0.142.0</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          <a href="https://gohugo.io">Hugo v0.152.2</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
     </div>
   </div>
-</footer><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js" integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+</footer><script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 <script src="https://code.jquery.com/jquery-3.7.0.slim.min.js" integrity="sha384-w5y/xIeYixWvfM+A1cEbmHPURnvyqmVg5eVENruEdDjcyRLUSNej7512JQGspFUr" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
 
